@@ -1,0 +1,39 @@
+body{
+	max-width:900px;
+	margin: 20px auto;
+}
+
+label { 
+	float: left; 
+	width: 10em;
+	 margin-right: 1em;
+	  text-align: right; 
+	}
+
+select[name="branch"]{
+	width:150px;
+}
+input, select{
+	border-radius: 5px;
+	padding:5px 20px;
+}
+form{
+	max-width: 700px;
+	margin:40px auto;	
+	background-color:#3A66A7;
+	color:white;
+	font-size: 18px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+
+}
+fieldset{
+	padding:40px;
+	margin: 20px;
+}
+legend{
+	color: white;
+}
+.size{
+	max-width: 50px;
+}
